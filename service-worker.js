@@ -27,15 +27,15 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "dea5ddab15997d7df1db2fc687b1e5d9"
+    "revision": "6b2bcdbc39ee518afc688f0ebc3cfc11"
   },
   {
     "url": "about/index.html",
-    "revision": "5b3988359b1ce9d8e23e9a11d2eebb00"
+    "revision": "e25cce8322464e160f33de40f7c905ae"
   },
   {
-    "url": "assets/css/0.styles.535e87e0.css",
-    "revision": "34842a1e5bd35f0bb0f9a9ea78984246"
+    "url": "assets/css/0.styles.e845a9a6.css",
+    "revision": "995a14719ada87f7a3fc7621908c7e69"
   },
   {
     "url": "assets/favicon/android-chrome-192x192.png",
@@ -106,8 +106,8 @@ self.__precacheManifest = [
     "revision": "98f7dcd309bb30dd6f5a005d86d74057"
   },
   {
-    "url": "assets/js/15.43c1c13f.js",
-    "revision": "91b16b54b0f9dcbeae23b881ea7df2a0"
+    "url": "assets/js/15.083348c2.js",
+    "revision": "0ed5beef56dd55f2339391e1e8e0722a"
   },
   {
     "url": "assets/js/16.493eb5e5.js",
@@ -334,8 +334,8 @@ self.__precacheManifest = [
     "revision": "665278a2e3d1d1d677aa6dd2246d22b1"
   },
   {
-    "url": "assets/js/68.ef10ef9b.js",
-    "revision": "a8a8d328ca21c0d92caf66ff89282d4c"
+    "url": "assets/js/68.7af286ed.js",
+    "revision": "1a307017ceb9cc1ccb00f2ae11730ad4"
   },
   {
     "url": "assets/js/69.c515dfb2.js",
@@ -354,8 +354,8 @@ self.__precacheManifest = [
     "revision": "dc9991d400e1d3c7c6c946b4c852660e"
   },
   {
-    "url": "assets/js/72.85651d4c.js",
-    "revision": "56e018ef0b2f1a932abb0f3f1841c323"
+    "url": "assets/js/72.a4a971a9.js",
+    "revision": "826ed66a008244addc0d3f39b80ee37e"
   },
   {
     "url": "assets/js/73.673edcd9.js",
@@ -386,268 +386,268 @@ self.__precacheManifest = [
     "revision": "a92f234f7792dacb6d14c1d368236c2e"
   },
   {
-    "url": "assets/js/app.fe3f725f.js",
-    "revision": "0c03e5ca417adb64b7916fbfd095d618"
+    "url": "assets/js/app.3c9fc98e.js",
+    "revision": "b72948b273bdbb6cfd63f7c816264bf8"
   },
   {
     "url": "contact/index.html",
-    "revision": "5182b1fca03ed4363e08462f5f8e4bbd"
+    "revision": "ffcd0d33522bfe5f874ac21fc0a7af17"
   },
   {
     "url": "courses/artificial-intelligence/enroll.html",
-    "revision": "66ace8ca2340ffecfa08a23ce40c8ea3"
+    "revision": "979488a70e33eb41e4600038bc24f48c"
   },
   {
     "url": "courses/artificial-intelligence/index.html",
-    "revision": "45028bf71773497a22ffc922b86c41e0"
+    "revision": "d010959ce9662987c764ecc398e97585"
   },
   {
     "url": "courses/asterics-assistive-technologies/enroll.html",
-    "revision": "e810c1cf010fa32aacbde9a6c564b788"
+    "revision": "6fdaf12304c55cf1c83198c8c2109289"
   },
   {
     "url": "courses/asterics-assistive-technologies/index.html",
-    "revision": "26ae3763a59cf0357e2cce1359f1e175"
+    "revision": "24db643e905c2ce6e63b228c5fbdaa45"
   },
   {
     "url": "courses/computer-animation/enroll.html",
-    "revision": "223cc148b8018c3609d9b5320ec705f7"
+    "revision": "fbd0b8074587a1884071e511bee2be07"
   },
   {
     "url": "courses/computer-animation/index.html",
-    "revision": "c09ab47a571645ee2953a9948e354f1d"
+    "revision": "2dd0e5bba40924acb0f26d43f708383e"
   },
   {
     "url": "courses/digitial-image-processing/enroll.html",
-    "revision": "fced7f5f30807b9fe189c3d7e35351e7"
+    "revision": "cedc24ef3843211ee6975d6f11165d5c"
   },
   {
     "url": "courses/digitial-image-processing/index.html",
-    "revision": "b277ce4aa57261d7ca8889e45d7c0edf"
+    "revision": "39a8504febc7389b02305fde9fa321bd"
   },
   {
     "url": "courses/embsys-vhdl-1/enroll.html",
-    "revision": "9e3ce05aa2288d9f426bfa789f72f953"
+    "revision": "75cdffd180c6ab21ede6496b5b1145f5"
   },
   {
     "url": "courses/embsys-vhdl-1/index.html",
-    "revision": "8b70b7f6687670852d6b2c68e9bf9ea0"
+    "revision": "cca63f8983f1e613890a48c02e26e50c"
   },
   {
     "url": "courses/embsys-vhdl-2/enroll.html",
-    "revision": "7ac3949effdb641827b27a4740c68ae0"
+    "revision": "04f6c91aad512efc3ba13f1647a0df27"
   },
   {
     "url": "courses/embsys-vhdl-2/index.html",
-    "revision": "50e51eb526e8eeb55b0537e6059c4f04"
+    "revision": "423ed06239c62ed4a6898d9578aca071"
   },
   {
     "url": "courses/human-computer-interaction-design/enroll.html",
-    "revision": "c8a2ac90a20ee58d13a76b958258a25b"
+    "revision": "74c7fbe85403acfa11c6e03e74071ece"
   },
   {
     "url": "courses/human-computer-interaction-design/index.html",
-    "revision": "4c906a24802fba28547b7c7deaf79f8b"
+    "revision": "2c32d6638a85e2a592a8df79b0dfd80d"
   },
   {
     "url": "courses/index.html",
-    "revision": "51e53d7360167c95ac076be3160cf4fd"
+    "revision": "6aa31ccaa7b7f432249b22986d0ef1ea"
   },
   {
     "url": "courses/iot-standards-procotols/enroll.html",
-    "revision": "da48ba6bd7fd85284f35ce5ed5f0817e"
+    "revision": "db6d41a6b220a81a17ce68ed07ee84d6"
   },
   {
     "url": "courses/iot-standards-procotols/index.html",
-    "revision": "ed3e2ec254fcdef9c9fcfef0797185f3"
+    "revision": "21ff9ed61ff7c36820392a7ae6af669d"
   },
   {
     "url": "courses/machine-vision/enroll.html",
-    "revision": "403cfb2d7cf1eaecaf01ab6d7dec4042"
+    "revision": "01720b6ccee50445719abc3316e178ef"
   },
   {
     "url": "courses/machine-vision/index.html",
-    "revision": "a1ee948bae4ff5dfa3bfc6c8cf100194"
+    "revision": "7082d4f29447daa4d306ddb3224b399d"
   },
   {
     "url": "courses/multi-dimensional-data-analysis/enroll.html",
-    "revision": "0c6c4b5a705c0657058621f4efb8e88d"
+    "revision": "9ac1cfa76adce1a4041b00b1f19284c9"
   },
   {
     "url": "courses/multi-dimensional-data-analysis/index.html",
-    "revision": "3f0e403e32413fa7ece3f54a9decd4e3"
+    "revision": "79572d2683b95b6b5746cc4142deb3f0"
   },
   {
     "url": "courses/template/enroll.html",
-    "revision": "9497b475efe2cc22830024042b3ae122"
+    "revision": "b4ebc25444ac7f3ad62f3b4906f9a38d"
   },
   {
     "url": "courses/template/index.html",
-    "revision": "228456e8677b7f05cf4a7b63d91b65ed"
+    "revision": "dad4099391d86bc26005fb3903e099ec"
   },
   {
     "url": "courses/the-connected-car/enroll.html",
-    "revision": "72728067948261697965541e14ec4c1b"
+    "revision": "108a1994679332455885ddea183eb1f9"
   },
   {
     "url": "courses/the-connected-car/index.html",
-    "revision": "dbc0e1cb7d5bcf4aa400075be1cb05cc"
+    "revision": "a44e65ecb0a8453594d2ee2d440ebdd0"
   },
   {
     "url": "courses/user-interface-design-patterns/enroll.html",
-    "revision": "b9f9a201e20d7709afa97b6d76c5ad5e"
+    "revision": "bbf23c69f549d7fe6f197ab85e1ac04d"
   },
   {
     "url": "courses/user-interface-design-patterns/index.html",
-    "revision": "402babffe0315877827a889f14bf7775"
+    "revision": "c8cd89f90257cd102ec994119dca4362"
   },
   {
     "url": "e-learning-sharing/concepts/concept1.html",
-    "revision": "b73526d8b121da1a8d423bad4a035fe8"
+    "revision": "f2839b1d9ec0d729c37537558116241d"
   },
   {
     "url": "e-learning-sharing/concepts/concept2.html",
-    "revision": "1d08221e2b3fca69baa93a8b1d17f969"
+    "revision": "ff53343374f2870d972ad434a696ac9a"
   },
   {
     "url": "e-learning-sharing/concepts/concept3.html",
-    "revision": "31bc1ef18cbc95220c6438dbb0ab88a5"
+    "revision": "3db91103bae0aab85bd620fb504a487f"
   },
   {
     "url": "e-learning-sharing/concepts/index.html",
-    "revision": "4cffa7814059845905a2f37710f1508c"
+    "revision": "04713eff0d255041af1f9ff781e43dfc"
   },
   {
     "url": "e-learning-sharing/faq.html",
-    "revision": "04c13be33ecd13c07245b104057ae0bd"
+    "revision": "a818aa013f5663d83b8fcea45be8ea29"
   },
   {
     "url": "e-learning-sharing/guides/guide1.html",
-    "revision": "baf63d5502fa896a488b9c57ed9a1e14"
+    "revision": "67d14e14e9134e7922bbb6ef6ed8e454"
   },
   {
     "url": "e-learning-sharing/guides/guide2.html",
-    "revision": "3447ae2a09e219f037294372c5288583"
+    "revision": "ddd7369945ac2da96bcb2ca5d35108ee"
   },
   {
     "url": "e-learning-sharing/guides/guide3.html",
-    "revision": "1ff81a1f60526ba63fcc3c0ccdec474b"
+    "revision": "e1479091a5dbb4e03e491206317e86a9"
   },
   {
     "url": "e-learning-sharing/guides/index.html",
-    "revision": "83961e7c32ec633a8f228c0ee1e0f21e"
+    "revision": "71f1b7047b133bda710b1c6ac49692ff"
   },
   {
     "url": "general/enroll.html",
-    "revision": "070c6469ed92e740cfa85496a39acd86"
+    "revision": "6dd1b3b55781e755b0d92769d9320460"
   },
   {
     "url": "index.html",
-    "revision": "9ba21ba8e714237d99b1e5b8ec7227b6"
+    "revision": "840f3c540285057c3d11b9167be6e8c8"
   },
   {
     "url": "more/hub/guides/guide1.html",
-    "revision": "a37b1ffd9e7e3c58171429b4261f3b8e"
+    "revision": "6c7269ee5b472726938051c7bee9a382"
   },
   {
     "url": "more/hub/guides/guide2.html",
-    "revision": "2001197a4545776240846f10042135d1"
+    "revision": "94d60497a755e37b56b7d2378831a7a0"
   },
   {
     "url": "more/hub/guides/guide3.html",
-    "revision": "97c07c3cb20398f7f8679c7dc90ef900"
+    "revision": "8a99ad48ab0ca097a90e2ce69b1e79e5"
   },
   {
     "url": "more/hub/guides/index.html",
-    "revision": "9b53da62bf4d3caa18e6c10f6a13e47c"
+    "revision": "43439d28f8ffb6e243aefeca7ffb695d"
   },
   {
     "url": "projectteams/index.html",
-    "revision": "dbd0db8c0073d9b428913727f01520bf"
+    "revision": "7c4ee0fb63bf7cf6f731287ea56ffac6"
   },
   {
     "url": "studyathome/about.html",
-    "revision": "048b36fdc4c6221aa1ab018e0cd50a50"
+    "revision": "a940c89c6149d7065f6db7b2a77462c0"
   },
   {
     "url": "studyathome/contact.html",
-    "revision": "33c2ecffcc14d42a8083de88ed9e2383"
+    "revision": "16a52b2d4f8372a0b1ab9e00ed152b67"
   },
   {
     "url": "studyathome/help.html",
-    "revision": "3e9e0c946d18e568ab6727cbcdb242e5"
+    "revision": "40f7e1e1a7e90d1d389c558a238d68e1"
   },
   {
     "url": "studyathome/markdown.html",
-    "revision": "664e05b467eefea4185809b08ce02a09"
+    "revision": "22881bbc781d7bd2a85df60c3666e65a"
   },
   {
     "url": "studyathome/partner/ctu/index.html",
-    "revision": "9114c0eefcc245f2997c3db09c7d4627"
+    "revision": "b4cf1e781b9f961e6ebc322e6fa85eb3"
   },
   {
     "url": "studyathome/partner/index.html",
-    "revision": "2a60a778ab85cf7e18f5129b3f639194"
+    "revision": "01d9f26e5e8fd49c6b47718aa3576cb6"
   },
   {
     "url": "studyathome/partner/uastw/index.html",
-    "revision": "bd990e68c9faddac8e2090f931b99841"
+    "revision": "399884da6163c6ca90539c2342a0fddf"
   },
   {
     "url": "studyathome/partner/ukim/index.html",
-    "revision": "41ce9d2b7b1a6a5c7dd8a41dcf0e4f5d"
+    "revision": "24fd669793bd5a5f943d48d90100421e"
   },
   {
     "url": "studyathome/partner/wit/index.html",
-    "revision": "d4c1dd6d77a7d690149c91a00cca4b1b"
+    "revision": "bb19303182f06d6abb75b18387b9a2ff"
   },
   {
     "url": "studyathome/privacy.html",
-    "revision": "c960866e4d0092a326ebd110b6407e02"
+    "revision": "71f00d677778dcebb7c6e035b7e25921"
   },
   {
     "url": "studyathome/sitemap.html",
-    "revision": "af02b3aa7a47a2a3c04dacec25c7958b"
+    "revision": "f0d3ec442101f838684176f2db9de792"
   },
   {
     "url": "studyathome/terms.html",
-    "revision": "5612768b435e33d4e260ad15ee03c8a5"
+    "revision": "4efefbb37f09f2728425e8d9291579da"
   },
   {
     "url": "virtual-project-teams/concepts/concept1.html",
-    "revision": "c2c47b2b6f7a6dd75c106182110bdb4d"
+    "revision": "d5398c8b5a878fb2b8aca664fb400e90"
   },
   {
     "url": "virtual-project-teams/concepts/concept2.html",
-    "revision": "e1c24421cc72eaf34c7ef6bddf3a63f3"
+    "revision": "7c215bf83663de15885b82721ead8180"
   },
   {
     "url": "virtual-project-teams/concepts/concept3.html",
-    "revision": "e6e2b3b061ec54afa92b1154f9107352"
+    "revision": "537e57c37269b1c8bdc34c34ef2ee214"
   },
   {
     "url": "virtual-project-teams/concepts/index.html",
-    "revision": "38dec650f880f79b40e9a8adcba93760"
+    "revision": "5781ea1a1dcd271c61eee5d2e80adf30"
   },
   {
     "url": "virtual-project-teams/faq.html",
-    "revision": "ba767fd3eaf9a50ccd508de40e3197e3"
+    "revision": "3f38420e4b8456714da15dc023baafc1"
   },
   {
     "url": "virtual-project-teams/guides/guide1.html",
-    "revision": "442f028376b8094e714154b34c8b75be"
+    "revision": "e1d6e44f0d96166fbe85edefe3cf30cc"
   },
   {
     "url": "virtual-project-teams/guides/guide2.html",
-    "revision": "96eb2e02d56a39c0ff3f02a99412dacb"
+    "revision": "28186f1d8d87bd36064437504b3ddef8"
   },
   {
     "url": "virtual-project-teams/guides/guide3.html",
-    "revision": "85f5479a49858e696e9d3871d0bd75a3"
+    "revision": "71c3cf64da86420a6812ea1a6e4b5679"
   },
   {
     "url": "virtual-project-teams/guides/index.html",
-    "revision": "e11ae7c68de6251e93736210d6772e08"
+    "revision": "3fc0553a7e0966f762ba9f92e73b3e96"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
