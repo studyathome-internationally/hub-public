@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "3867c94010516417c9756e300bf6638c"
+    "revision": "39f895fa788a6ab7d6ac5a145f8dd9a7"
   },
   {
     "url": "assets/css/0.styles.0febfb01.css",
@@ -124,6 +124,10 @@ self.__precacheManifest = [
   {
     "url": "assets/img/courses/harry-shutterstock_213119035.jpg",
     "revision": "9908c43b782c4cb701eccfe15fbe7cf7"
+  },
+  {
+    "url": "assets/img/courses/machine-vision.jpg",
+    "revision": "006bcabe5195ee69968f79da231c970d"
   },
   {
     "url": "assets/img/courses/mux.svg",
@@ -374,8 +378,8 @@ self.__precacheManifest = [
     "revision": "6474b32f936585101cdc410ff8f06716"
   },
   {
-    "url": "assets/js/16.7f09225e.js",
-    "revision": "8d621abe74a233e10116c8ccfb7e6c5c"
+    "url": "assets/js/16.8c2f2500.js",
+    "revision": "66d785df6b0a8b3e57e3904b2f127eed"
   },
   {
     "url": "assets/js/17.a11aac09.js",
@@ -422,24 +426,24 @@ self.__precacheManifest = [
     "revision": "db02398d2a491454ceab489de07c6617"
   },
   {
-    "url": "assets/js/27.215a3854.js",
-    "revision": "8a4fed82176b65cc6c626fd4144ea47b"
+    "url": "assets/js/27.8e472cec.js",
+    "revision": "65324b273d653fdafe903a50933c373c"
   },
   {
-    "url": "assets/js/28.dbfaa8e3.js",
-    "revision": "90e3844bce581051c0947ccd25ac2f7f"
+    "url": "assets/js/28.994a6e37.js",
+    "revision": "2d2696bffcc7f0f622d9c9d1bc49b6af"
   },
   {
     "url": "assets/js/29.9194e86e.js",
     "revision": "c00733d3eb063c57ed07caade89076c6"
   },
   {
-    "url": "assets/js/30.1d32491f.js",
-    "revision": "22810f46c8b84bfb4a16d4812d7d67eb"
+    "url": "assets/js/30.825e31b3.js",
+    "revision": "2d16385bd7ac5dad1fe2aecaba8ee48c"
   },
   {
-    "url": "assets/js/31.811ead19.js",
-    "revision": "21b6eb735ec1787a8f1bd3e8413c9e80"
+    "url": "assets/js/31.cb7da769.js",
+    "revision": "17196345b8a0da5ba4f46d06add182c3"
   },
   {
     "url": "assets/js/32.aae43679.js",
@@ -498,32 +502,32 @@ self.__precacheManifest = [
     "revision": "f71f5caf13a58b542a75c2c92776702b"
   },
   {
-    "url": "assets/js/45.ba72f95b.js",
-    "revision": "8339a62398a15268b21445e775510e61"
+    "url": "assets/js/45.26603e45.js",
+    "revision": "cd027254ce40862d1d9d78d625d7073f"
   },
   {
-    "url": "assets/js/46.2b647a77.js",
-    "revision": "a429add98d36c403d360062140a4da8c"
+    "url": "assets/js/46.ccb03a9c.js",
+    "revision": "ec84722e76819dcdd6882553fbafb2bd"
   },
   {
-    "url": "assets/js/47.1693d996.js",
-    "revision": "28afaed1caaff09207ea5e0054988e14"
+    "url": "assets/js/47.2784e249.js",
+    "revision": "3e3f307921c5afe29612bf706c7e463b"
   },
   {
-    "url": "assets/js/48.b8d977ca.js",
-    "revision": "541f26d27298bc2a3631327b1509269b"
+    "url": "assets/js/48.ec840f55.js",
+    "revision": "e923affbdfb6a1cb28cdeba59a958169"
   },
   {
-    "url": "assets/js/49.d46988de.js",
-    "revision": "ba94a708fc81beccb5d15c18137229c4"
+    "url": "assets/js/49.ce132a68.js",
+    "revision": "4a64cf08556e344f2bc030efd6313077"
   },
   {
     "url": "assets/js/5.0d2c8abb.js",
     "revision": "49231bc1ea54283459732ff1d03b4c6a"
   },
   {
-    "url": "assets/js/50.c24da006.js",
-    "revision": "e153641017dbff85e1275cd7926ff5b5"
+    "url": "assets/js/50.ded955cc.js",
+    "revision": "f10f6da0ccc6664eb2f76577cd28aa42"
   },
   {
     "url": "assets/js/51.1478619b.js",
@@ -666,8 +670,8 @@ self.__precacheManifest = [
     "revision": "2543aab5a79f1244a6be477d00e417f6"
   },
   {
-    "url": "assets/js/app.b9976ffc.js",
-    "revision": "15e17098c4f3437b35ed2613bb7d3008"
+    "url": "assets/js/app.af82d9ac.js",
+    "revision": "1623f7082ca39ca4a75d83b3b3f47bda"
   },
   {
     "url": "assets/pdf/summer-school/at-summer-school-2021.png",
@@ -687,231 +691,231 @@ self.__precacheManifest = [
   },
   {
     "url": "courses/artificial-intelligence/index.html",
-    "revision": "541f27feb7038ed87226c657bd6fd795"
+    "revision": "275fe303694d7b0177471c97b636a1d3"
   },
   {
     "url": "courses/assistive-technologies-basics/index.html",
-    "revision": "e10a5b4c8780f3c645b3c2d89f9d2dd4"
+    "revision": "26635c41807f6912f189af7e0041167a"
   },
   {
     "url": "courses/assistive-technologies-hands-on/index.html",
-    "revision": "063c264c4ce60f399c6121b010510f19"
+    "revision": "90e88b9bf8fad0fa3b725c7dc66839f6"
   },
   {
     "url": "courses/computer-animation/index.html",
-    "revision": "8d13da71db6e166af21c21435ba37498"
+    "revision": "a654d7bef2b38a44421b84dd82d0a766"
   },
   {
     "url": "courses/data-ethics-and-open-data/index.html",
-    "revision": "b6d90bb7b4407c91090f9701bb4de99c"
+    "revision": "1916c95afb3127f0ab845e931f7e0712"
   },
   {
     "url": "courses/digitial-image-processing/index.html",
-    "revision": "f424e187c11679719ca893089bf53ec3"
+    "revision": "f1478ade1029f3613c02742a52a94a6e"
   },
   {
     "url": "courses/embsys-vhdl-1/index.html",
-    "revision": "9354b71ff922bae1f80889126cae88cf"
+    "revision": "b85ed71356aff7c39f780a1b7fd9c196"
   },
   {
     "url": "courses/embsys-vhdl-2/index.html",
-    "revision": "e1022fe959fb68f3adbb7fd7e536e5cf"
+    "revision": "5639ab49146322574f6d36e84779cf1a"
   },
   {
     "url": "courses/enroll/index.html",
-    "revision": "ae45752e056ddd1e60e3535e7e91c997"
+    "revision": "c5ca291e59707a7405a0570774dab184"
   },
   {
     "url": "courses/human-computer-interaction-design/index.html",
-    "revision": "96e2f3cf1781f1ff5e15b6f02a61619e"
+    "revision": "8c3e04eeecbd7320ec886e1e982121b6"
   },
   {
     "url": "courses/index.html",
-    "revision": "5e198fe3ea7c157391174e24392a9f71"
+    "revision": "cd789571338bce034a071775a67859ba"
   },
   {
     "url": "courses/iot-standards-procotols/index.html",
-    "revision": "6ade8d4b0b571e97d5f344ade8f2c3c4"
+    "revision": "c2f2961055cdbf970dc83cabb336baf9"
   },
   {
     "url": "courses/machine-vision/index.html",
-    "revision": "398931d3ad4bff7a10d200a0bc8c35b1"
+    "revision": "994fbe7260e11e0c137d1244c75a9bf3"
   },
   {
     "url": "courses/multi-dimensional-data-analysis/index.html",
-    "revision": "7fe03c6b3ceb3968891573b5e306e6c1"
+    "revision": "3b7558b345c6af862434db44d73d8046"
   },
   {
     "url": "courses/template/index.html",
-    "revision": "1a8151a8f5fb14a4e39886e6445a03ec"
+    "revision": "48bc3022e403422002183a8e13d89d17"
   },
   {
     "url": "courses/the-connected-car/index.html",
-    "revision": "4d5f58c02d54b7e790d23644c0569c5d"
+    "revision": "be87f0000ae74e3d92e0716b37d35666"
   },
   {
     "url": "courses/user-interface-design-patterns/index.html",
-    "revision": "0892d7a47da2932256bec102e631cc87"
+    "revision": "c31696cb5a8b5fa83d04b4dc16cf5f48"
   },
   {
     "url": "e-learning-sharing/faq.html",
-    "revision": "a453e07b860e31a9d6f2cd73e5c2431e"
+    "revision": "5136eba151263b01834f632849f745b6"
   },
   {
     "url": "e-learning-sharing/glossary.html",
-    "revision": "d0c9989ece1fce9a7a5aa98500958388"
+    "revision": "19efcc6836201295541ad9dfa64930f0"
   },
   {
     "url": "e-learning-sharing/index.html",
-    "revision": "4ae7ee4e144237567b6d8dfc923417bf"
+    "revision": "1c3eb0bf564f6c099d4dbab5bc418c73"
   },
   {
     "url": "index.html",
-    "revision": "cb79315cb8b2d44f55333140d605dc8a"
+    "revision": "8f87e9b1bd78678a3c76ac13c6dea155"
   },
   {
     "url": "studyathome/about.html",
-    "revision": "506c6a4cfc4fdb3fe11b762459de101d"
+    "revision": "4b2c4279eb4333c9e0a6c0e1769b843b"
   },
   {
     "url": "studyathome/contact.html",
-    "revision": "9957a06425f75b06446b4676e537855f"
+    "revision": "760888cd242cb316226876000e8ba211"
   },
   {
     "url": "studyathome/legal-notice.html",
-    "revision": "dae8703d3e51f40cd6f411114c30a286"
+    "revision": "6265e309dd778a0787d6df6d6e688add"
   },
   {
     "url": "studyathome/markdown.html",
-    "revision": "30fff2d0b1a3b3770d7cca496073b083"
+    "revision": "ee20ccd8ed0e13b53d8bdf1a8bb25711"
   },
   {
     "url": "studyathome/partner/ctu/disclaimer.html",
-    "revision": "bc377d3688e5a4d4dddeb22f1d2ff2f5"
+    "revision": "39f895fa788a6ab7d6ac5a145f8dd9a7"
   },
   {
     "url": "studyathome/partner/ctu/index.html",
-    "revision": "f5459d54f07d6c7e4b3439f03bc96809"
+    "revision": "042f4b56c53edabdac6f22a8c0cddf63"
   },
   {
     "url": "studyathome/partner/ctu/lecturer/lenka-lhotska.html",
-    "revision": "6c63bcb39f042708685bc223f4e5fc49"
+    "revision": "8f50595482e2f3e7556b5f0eaf1c8b56"
   },
   {
     "url": "studyathome/partner/ctu/lecturer/martin-macas.html",
-    "revision": "4bac6b106838c8df1f4f84b657f3a61c"
+    "revision": "947c1d7555b135d311c3c0cfdf29234b"
   },
   {
     "url": "studyathome/partner/index.html",
-    "revision": "36d1bd3c82b0f4d4e7dd5c14f72b10bd"
+    "revision": "8a8bd4bfa7d513f275ed25580937ac97"
   },
   {
     "url": "studyathome/partner/uastw/disclaimer.html",
-    "revision": "9e6d79967b05e5b916ffccb29965f063"
+    "revision": "4554567e16bc5194a37d17771e22773e"
   },
   {
     "url": "studyathome/partner/uastw/index.html",
-    "revision": "7eddeac7263b8e876f66c08be95746de"
+    "revision": "1e268ab01725f6485e9e13bf9195f38b"
   },
   {
     "url": "studyathome/partner/uastw/lecturer/alija-sabic.html",
-    "revision": "ab916c2daad78e7fb78503682e821640"
+    "revision": "39112d1f918993e05fbd18d78c45a116"
   },
   {
     "url": "studyathome/partner/uastw/lecturer/andreas-puhm.html",
-    "revision": "26ef299a00a0a41879bcc193ab6d6a2c"
+    "revision": "9815215bd35f7044290dc99c4a36c45f"
   },
   {
     "url": "studyathome/partner/uastw/lecturer/christina-hochleitner.html",
-    "revision": "066c3d23b02394025178304ff7aed8d5"
+    "revision": "b28a4faa4d3f0675e294efba6eb2e151"
   },
   {
     "url": "studyathome/partner/uastw/lecturer/christoph-veigl.html",
-    "revision": "54fe8fbac5dbe3be2113e621b5b4e029"
+    "revision": "3a8b020e45ce2272e640e211cd667b7d"
   },
   {
     "url": "studyathome/partner/uastw/lecturer/iris-nemec.html",
-    "revision": "5e38387d531153bfe34f4812badf6444"
+    "revision": "0d8b0c649ff3f02d0105c6fc92c3de23"
   },
   {
     "url": "studyathome/partner/uastw/lecturer/lukas-rohatsch.html",
-    "revision": "bb9078ac8722eee3ad2392648ae1866c"
+    "revision": "1381203c08d022b15386ef1766adb92b"
   },
   {
     "url": "studyathome/partner/uastw/lecturer/martin-deinhofer.html",
-    "revision": "b911507b6bc2c6c95f933fe355e26279"
+    "revision": "85c2fc2645fad5cb73325b4345dfa962"
   },
   {
     "url": "studyathome/partner/uastw/lecturer/michael-graf.html",
-    "revision": "ae5e87e58c9b267fd5bda46bc1a1dc3c"
+    "revision": "3ef8af945af811fb2dcc6369b5a7c4a5"
   },
   {
     "url": "studyathome/partner/ukim/disclaimer.html",
-    "revision": "3867c94010516417c9756e300bf6638c"
+    "revision": "39f895fa788a6ab7d6ac5a145f8dd9a7"
   },
   {
     "url": "studyathome/partner/ukim/index.html",
-    "revision": "cbdb6b76a16bf2af8912125954cae408"
+    "revision": "f3b5925ae5b403f5fcda014500de67cc"
   },
   {
     "url": "studyathome/partner/ukim/lecturer/andrea-kulakov.html",
-    "revision": "ff673b656cc5566363d8108001d5cb4a"
+    "revision": "b00099a0c8b036de26f93f73df9990c5"
   },
   {
     "url": "studyathome/partner/ukim/lecturer/ivan-chorbev.html",
-    "revision": "0b9306923a041404cdbfe9a1db9f9693"
+    "revision": "de8f77da52df14676611120819f73a1b"
   },
   {
     "url": "studyathome/partner/ukim/lecturer/ivan-kitanovski.html",
-    "revision": "283efca480e7ae16838cc37e59c66738"
+    "revision": "1cd38ebb330f019f06ad58237075e94d"
   },
   {
     "url": "studyathome/partner/ukim/lecturer/ivica-dimitrovski.html",
-    "revision": "96355adad7ccc7cb7c5474e3eb35f85d"
+    "revision": "d7ca7eace10a5113ca17624b0e0858da"
   },
   {
     "url": "studyathome/partner/ukim/lecturer/nevena-ackovska.html",
-    "revision": "8f7e69d9c2b8da6630ecb115e2fac7ea"
+    "revision": "34c8b324eb28617580e4381bc62ebbb0"
   },
   {
     "url": "studyathome/partner/ukim/lecturer/petre-lameski.html",
-    "revision": "f8f7868ff2d4b7b530309003b96eeaf3"
+    "revision": "b53a26f9c50a8feea215029931238118"
   },
   {
     "url": "studyathome/partner/ukim/lecturer/sonja-gievska.html",
-    "revision": "a3ed54ca12191b1fc2f43faf85320557"
+    "revision": "291210e1478768d085911015ddc9c7d1"
   },
   {
     "url": "studyathome/partner/ukim/lecturer/suzana-loshkovska.html",
-    "revision": "9aef0648836363361dda719d8c7f7b9b"
+    "revision": "8b29adb84a2da6b4db25f3a813c60571"
   },
   {
     "url": "studyathome/partner/wit/disclaimer.html",
-    "revision": "bc377d3688e5a4d4dddeb22f1d2ff2f5"
+    "revision": "3b7515b2aedd9df3aa2e13ea1632796f"
   },
   {
     "url": "studyathome/partner/wit/index.html",
-    "revision": "60febee9ca95bc6541d94c68bc2356a9"
+    "revision": "7d36dffef08dd535d09486b36b175ec1"
   },
   {
     "url": "studyathome/partner/wit/lecturer/brendan-jackman.html",
-    "revision": "84b8c3a266de71eb0d694dd14db6df79"
+    "revision": "9f6b132caa8570c3a2870f901d56db8a"
   },
   {
     "url": "studyathome/partner/wit/lecturer/frank-walsh.html",
-    "revision": "ffe87c7d65c02ad79e338aa0f423fe06"
+    "revision": "42d0aa1ba26dd92f303943adba25ed2d"
   },
   {
     "url": "studyathome/privacy.html",
-    "revision": "535d42c9d7d05b90bb3a0429c7cc6b5b"
+    "revision": "cbbb8286d1335dac5905372bfa0578da"
   },
   {
     "url": "studyathome/summer-school/index.html",
-    "revision": "1aca46681527fb9917a12bb7b91eb174"
+    "revision": "39a8cf75bb8705c4ca47727560fab19e"
   },
   {
     "url": "virtual-student-interaction/index.html",
-    "revision": "506ad412f075d64188dedd787e063dce"
+    "revision": "33526e77fbae133865ff9e21fc6ea968"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
